@@ -1,0 +1,6 @@
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\bin\Debug\ManagedXml.dll
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\bin\Debug\ManagedXml.pdb
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\obj\Debug\ManagedXml.csprojAssemblyReference.cache
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\obj\Debug\ManagedXml.csproj.CoreCompileInputs.cache
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\obj\Debug\ManagedXml.dll
+C:\Users\asear\source\repos\ManagedXml\ManagedXml\obj\Debug\ManagedXml.pdb
